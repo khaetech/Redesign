@@ -1,0 +1,10 @@
+ubuntu@sandbox:~/my-better-fico-redesign $ cd /home/ubuntu && cd my-better-fico-redesign && git commit -m "Initial redesign commit"
+[branch-2 6ac7f9aa] Initial redesign commit
+ 6 files changed, 114 insertions(+)
+ create mode 100644 dist.zip
+ create mode 100644 dist/assets/index-BamEs_PK.css
+ create mode 100644 dist/assets/index-BzeRlpp5.js
+ create mode 100644 dist/assets/my_better_fico_logo-Sp33exSx.png
+ create mode 100644 dist/favicon.ico
+ create mode 100644 dist/index.html
+ubuntu@sandbox:~/my-better-fico-redesign $
